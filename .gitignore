@@ -1,4 +1,7 @@
+# defaults from mycroft
 __pycache__/
 *.qmlc
 settings.json
+
+# settings from ides and editors
 .idea/
