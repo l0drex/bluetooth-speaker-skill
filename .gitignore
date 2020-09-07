@@ -5,3 +5,4 @@ settings.json
 
 # settings from ides and editors
 .idea/
+.vscode/
