@@ -34,3 +34,17 @@ class Bluetooth:
                 key = s
 
         return info
+
+    def get_connected_devices():
+        """
+        Returns information about connected devices as a dict.
+        Returns: {
+            device: {
+                uuid: XX:XX:XX:XX:XX:XX,
+                name: generic name
+            }
+        }
+        """
+        
+        # TODO
+        pass
