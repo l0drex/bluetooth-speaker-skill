@@ -6,3 +6,4 @@ class Status(Enum):
     POWERED = 'powered'
     DISCOVERABLE = 'discoverable'
     PAIRING = 'pairing'
+    CONNECTED = 'connected'
